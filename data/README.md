@@ -10,6 +10,7 @@ http://app.coredata.nyc/?mlb=false&ntii=&ntr=&mz=14&vtl=https%3A%2F%2Fthefurmanc
 
 5. business activity(in park)
 https://d #ata.cityofnewyork.us/Housing-Development/Directory-of-Concessions/ac9y-je94
+Converted to CSV(complete)
 
 6. light,road condition from 311 
 https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/data
