@@ -9,8 +9,10 @@ https://project.wnyc.org/median-income-nabes/
 http://app.coredata.nyc/?mlb=false&ntii=&ntr=&mz=14&vtl=https%3A%2F%2Fthefurmancenter.carto.com%2Fu%2Fnyufc%2Fapi%2Fv2%2Fviz%2F39154c02-b660-11e6-baf8-0e3ff518bd15%2Fviz.json&mln=false&mlp=true&mlat=40.718&ptsb=&nty=&mb=roadmap&pf=%7B%22subsidies%22%3Atrue%7D&md=map&mlv=false&mlng=-73.996&btl=Borough&atp=properties#
 
 5. business activity(in park)
-https://d #ata.cityofnewyork.us/Housing-Development/Directory-of-Concessions/ac9y-je94
-Converted to CSV(complete)
+https://data.cityofnewyork.us/Housing-Development/Directory-of-Concessions/ac9y-je94
+
+business all over city
+https://data.cityofnewyork.us/Business/Legally-Operating-Businesses/w7w3-xahh
 
 6. light,road condition from 311 
 https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/data
