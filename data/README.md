@@ -3,6 +3,7 @@
 2. Park location: https://data.cityofnewyork.us/Recreation/park/asrf-bjin
 
 3. park score 
+
    I have upload the merged park data with score for each park, after merge we still have 1089 parks left.
 
 4. neighborhood income (census tract median income)
