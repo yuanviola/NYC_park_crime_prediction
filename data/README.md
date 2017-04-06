@@ -1,11 +1,10 @@
 MERGE DATA:
 
-features we will use: 
+### features we will use: 
 
 SIZE (ACRES), Street_light, Drinking , Drugs,household,median_income, average_score, public_house,business
 
-ATTENTION:
-
+### ATTENTION:
 1)311_Total is just sum of Street_light, Drinking , Drugs, so please don't take it into account again </br>
 
 2)public_house the number only means how many public house sites within the census tracts where the park is, it doesn't mean the larger the number, the more people living there. So probably it is better to just use YES/NO for this column.But I still keep the number of public house sites in the data. The value is 0, 1, 2, 3, 4, 5; probably we can just use 0, and 1 to replace 1,2,3,4,5
